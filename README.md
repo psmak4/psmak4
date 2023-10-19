@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Kolas Contracting's new website](https://kolas-contracting.github.io/)
 - 🌱 I’m currently learning **Python and Go**
 - 🤝 I’m looking for help with **my resume (it's bad)**
-- 💬 Ask me about **React, HTML, and CSS (SCSS)**
+- 💬 Ask me about **JavaScript/TypeScript (React), HTML, and CSS (SCSS)**
 - 📫 How to reach me **prestonjohnjones@gmail.com**
 
 ## 🌐 Socials:
