@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Python and Go**
 - 🤝 I’m looking for help with **my resume (it's bad)**
 - 💬 Ask me about **React, HTML, and CSS (SCSS)**
-- 📫 How to reach me **psmak4@gmail.com**
+- 📫 How to reach me **prestonjohnjones@gmail.com**
 
 ## 🌐 Socials:
 
