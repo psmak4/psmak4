@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Kolas Contracting's new website](https://kolas-contracting.github.io/)
+- 🔭 I’m currently working on [Kolas Contracting's new website](https://kolas-contracting.github.io/) using **Astro, Bootstrap, and Github Pages**
 - 🌱 I’m currently learning **Python and Go**
 - 🤝 I’m looking for help with **my resume (it's bad)**
 - 💬 Ask me about **JavaScript/TypeScript (React), HTML, and CSS (SCSS)**
